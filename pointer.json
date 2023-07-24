@@ -1,6 +1,6 @@
 {
-    "bot": [ "http://localhost:3000/autopick.png" ],
-    "mask": [ "http://localhost:3000/mask.png" ],
+    "bot": [ "https://tf2mandeokyi.github.io/r-place-2023-korea-template/autopick.png" ],
+    "mask": [ "https://tf2mandeokyi.github.io/r-place-2023-korea-template/mask.png" ],
     "offX": 0,
     "offY": 0,
     "mux": false,
