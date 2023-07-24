@@ -1,0 +1,8 @@
+{
+    "bot": [ "http://localhost:3000/autopick.png" ],
+    "mask": [ "http://localhost:3000/mask.png" ],
+    "offX": 0,
+    "offY": 0,
+    "mux": false,
+    "name": "korea"
+}
