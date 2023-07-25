@@ -1,0 +1,16 @@
+{
+  "faction": "Korea Place",
+  "contact": "r/korea_place",
+  "templates": [
+    {
+      "name": "whole template",
+      "sources": [
+        "https://tf2mandeokyi.github.io/r-place-2023-korea-template/template_nordic.png"
+      ],
+      "x": 0,
+      "y": 0
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
