@@ -3,7 +3,15 @@
   "contact": "r/korea_place",
   "templates": [
     {
-      "name": "whole template",
+      "name": "r/korea_place template",
+      "sources": [
+        "https://tf2mandeokyi.github.io/r-place-2023-korea-template/automask.png"
+      ],
+      "x": 0,
+      "y": 0
+    },
+    {
+      "name": "nordic template",
       "sources": [
         "https://tf2mandeokyi.github.io/r-place-2023-korea-template/template_nordic.png"
       ],
